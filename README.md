@@ -50,3 +50,10 @@
 </div>
 
 ###
+
+## Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/atharva-zanwar-117b7b211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva-zanwar-117b7b211" height="30" width="40" /></a>
+<a href="https://instagram.com/atharvaa.mov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atharvaa.mov" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/atharvaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvaz" height="30" width="40" /></a>
+</p>
