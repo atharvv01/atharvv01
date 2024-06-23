@@ -22,6 +22,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/atharvv01/atharvv01/output/snake.svg" alt="Snake animation" />
 
 ###
