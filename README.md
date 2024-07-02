@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Atharva 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  /> -->
 <h3 align="center">Aspiring Software Developer from India </h3>
 
 
