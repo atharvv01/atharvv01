@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Atharva 👋 </h1>
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=taozhi8833998.taozhi883398&left_color=royalblue&right_color=black"  /> -->
-<h3 align="center">Aspiring Software Developer from India </h3>
+<h3 align="center">Software Engineer from India </h3>
 
 
 ![Description](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
