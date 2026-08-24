@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="atharvv01's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=650&height=70&lines=%24+whoami;Software+Engineer+(allegedly);I+write+bugs%2C+then+bravely+fix+them;It+compiled+-+that+is+the+whole+personality" alt="whoami" />
 </p>
@@ -17,7 +23,7 @@ const atharva = {
 ### 🛠️ my development process, fully transparent
 
 1. I describe what I want in plain English, like a wizard who forgot the spell.
-2. An AI agent writes three hundred lines of code.
+2. Claude writes three hundred lines of code while I supervise from the couch.
 3. I keep about ten of them and delete the rest with zero remorse.
 4. We repeat until it works — or until I rename the variable and call it a fix.
 5. `git commit -m "fix"`. Ship it. Act like that was the plan all along.
@@ -30,6 +36,16 @@ const atharva = {
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=BD93F9&vCenter=true&width=520&height=45&lines=git+commit+-m+fix+(again);console.log(undefined)+strikes+back;TODO%3A+touch+grass" alt="status" />
+</p>
+
+### 📊 receipts, in case the jokes above weren't proof enough
+
+<p align="center">
+  <img src="github-metrics.svg" alt="atharvv01's GitHub metrics" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=atharvv01&theme=dracula&hide_border=true" alt="streak stats" />
 </p>
 
 <a href="https://linkedin.com/in/atharva-zanwar-117b7b211"><img src="https://img.shields.io/badge/say%20hi%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
